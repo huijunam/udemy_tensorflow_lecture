@@ -12,3 +12,9 @@ lecture: Zero to Mastery TensorFlow for Deep Learning
 * chapter 8: Natural Language Processing
 * chapter 9: Milestone Project 2
 * chapter 10: Milestone Project 3 Time series forecasting (BitPredict)
+
+<table>
+  <tr> 
+    <td>chapter 0</td>
+  </tr>
+</table>
