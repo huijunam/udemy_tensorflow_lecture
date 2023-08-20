@@ -16,5 +16,7 @@ lecture: Zero to Mastery TensorFlow for Deep Learning
 <table>
   <tr> 
     <td>chapter 0</td>
+    <td>tensorflow fundamentals</td>
+    <td>✅</td>
   </tr>
 </table>
