@@ -40,7 +40,7 @@ lecture: Zero to Mastery TensorFlow for Deep Learning
   <tr> 
     <td>chapter 6 </td>
     <td>transfer learning part 3 Scaling up </td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr> 
     <td>chapter 7 </td>
