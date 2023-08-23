@@ -35,7 +35,7 @@ lecture: Zero to Mastery TensorFlow for Deep Learning
   <tr> 
     <td>chapter 5 </td>
     <td>transfer learning part 2 Fine-tuning </td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr> 
     <td>chapter 6 </td>
